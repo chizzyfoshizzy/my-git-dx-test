@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520978863567,
+            "changeTime": 1520978863567,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520978863568,
+            "changeTime": 1520978863568,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520978863568,
+            "changeTime": 1520978863568,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521049544626,
+            "changeTime": 1521049544626,
+            "contentHash": "18a5789a04a800cf8e726935ff985357b44db17b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1521049544636,
+            "changeTime": 1521049544636,
+            "contentHash": "74d7992db2006dc9830d7a7803bf95ac5cd16268",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.auradoc",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1521049544635,
+            "changeTime": 1521049544635,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp",
+            "isDirectory": false,
+            "size": 139,
+            "modifiedTime": 1521049650371,
+            "changeTime": 1521049650371,
+            "contentHash": "7bb67713812e765897e003278fb6bc8ec0fbe90d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 255,
+            "modifiedTime": 1521049544628,
+            "changeTime": 1521049544628,
+            "contentHash": "0e53b58553e08e1f9efbcb14e195f8e5d927cca9",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.css",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1521049544632,
+            "changeTime": 1521049544632,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.design",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1521049544636,
+            "changeTime": 1521049544636,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.svg",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1521049544634,
+            "changeTime": 1521049544634,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionController.js",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionController.js",
+            "isDirectory": false,
+            "size": 105,
+            "modifiedTime": 1521049689340,
+            "changeTime": 1521049689341,
+            "contentHash": "cfa1ca3cec46eb9514b342deb075722a0c92e327",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionHelper.js",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1521049544631,
+            "changeTime": 1521049544631,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionRenderer.js",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickActionRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1521049544633,
+            "changeTime": 1521049544633,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test",
+        {
+            "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1520979342847,
+            "changeTime": 1520979342847,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

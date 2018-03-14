@@ -1,5 +1,5 @@
 ({
-    myAction : function(component, event, helper) {
-
+    doFilter : function(component, event, helper) {
+        consoloe.log('Filter clicked!');
     }
 })
