@@ -92,16 +92,15 @@
     [
         "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\ChadCountryman\\Documents\\ApostleTech\\Trainings\\Udemy\\vscode_git\\my-git-dx-test\\git-dx-test\\force-app\\main\\default\\aura\\FilterButtonQuickAction\\FilterButtonQuickAction.cmp",
             "isDirectory": false,
-            "size": 139,
-            "modifiedTime": 1521049650371,
-            "changeTime": 1521049650371,
-            "contentHash": "7bb67713812e765897e003278fb6bc8ec0fbe90d",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 140,
+            "modifiedTime": 1521049872600,
+            "changeTime": 1521049872600,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "e151c65ae1bebd6fd2fdbea0d7c2f97c63f4c166"
         }
     ],
     [
